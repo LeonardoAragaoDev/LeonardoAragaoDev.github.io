@@ -12,8 +12,8 @@ var listaObjetoProjetos = [
         nome: "App web gerenciador de tarefas",
         tecnologias: ["HTML", "CSS", "JS", "Bootstrap", "SQLite"],
         descricao: "Nesse app é possível se cadastrar, logar e gerenciar tarefas, tudo salvo somente no seu navegador.",
-        linkCodigo: "https://github.com/Lewoaragao/lewoaragao.github.io",
-        linkDemonstracao: "https://lewoaragao.github.io/",
+        linkCodigo: "https://github.com/Lewoaragao/APP-DE-TAREFAS",
+        linkDemonstracao: "https://lewoaragao.github.io/APP-DE-TAREFAS/",
         caminhoImagem: "imgs/imgs-projetos/"
     },
 
