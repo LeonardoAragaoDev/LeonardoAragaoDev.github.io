@@ -32,6 +32,26 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  padding: 5px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #040b14; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #040b14; 
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -80,6 +100,26 @@ h6 {
   padding: 0 15px;
   background: #040b14;
   overflow-y: auto;
+}
+
+/* width */
+#header::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+#header::-webkit-scrollbar-track {
+  padding: 5px;
+}
+ 
+/* Handle */
+#header::-webkit-scrollbar-thumb {
+  background: #fff; 
+}
+
+/* Handle on hover */
+#header::-webkit-scrollbar-thumb:hover {
+  background: #fff; 
 }
 
 #header .profile img {
@@ -947,6 +987,15 @@ section {
   font-weight: 600;
 }
 
+.contact .php-email-form .warning-message {
+  display: none;
+  color: #fff;
+  background: #d2cf18;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
 .contact .php-email-form .loading {
   display: none;
   background: #fff;
@@ -1074,15 +1123,18 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
-  color: #f4f6fd;
-  font-size: 14px;
+  /* padding: 15px;
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 300px; */
   z-index: 9999;
+  color: #f4f6fd;
+  font-size: 14px;
   background: #040b14;
+  position: static;
+  width: auto;
+  padding-right: 20px 15px;
 }
 
 #footer .copyright {
