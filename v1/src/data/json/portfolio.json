@@ -1,0 +1,14 @@
+{
+  "name": "Leonardo Aragão",
+  "role": "Desenvolvedor Full-Stack Sênior",
+  "bio": "Especialista em criar produtos digitais escaláveis. Transformo café em código e ideias em negócios lucrativos usando as tecnologias mais modernas do mercado atualmente.",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "JavaScript",
+    "TypeScript",
+    "Next.js",
+    "Tailwind CSS",
+    "PostgreSQL"
+  ]
+}

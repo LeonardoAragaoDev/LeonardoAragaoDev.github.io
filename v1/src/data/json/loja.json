@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "landing-page-conversao",
+    "title": "Template Landing Page Alta Conversão",
+    "description": "Template premium construído com Next.js, Framer Motion e shadcn/ui. Pronto para capturar leads.",
+    "price": 49.9,
+    "isFree": false,
+    "type": "landing_page",
+    "features": [
+      "Design 100% Responsivo",
+      "Otimizado para SEO (Score 100)",
+      "Animações Fluidas com Framer Motion",
+      "Integração fácil com Mailchimp/ConvertKit",
+      "Modo Claro e Escuro automático"
+    ],
+    "details": "Este template foi desenhado especificamente para desenvolvedores que querem lançar produtos rápidos. Ele inclui seções de Hero, Features, Depoimentos, Pricing e FAQ. O código é limpo, componentizado e extremamente fácil de customizar usando Tailwind CSS."
+  },
+  {
+    "slug": "navbar-animada-pro",
+    "title": "Navbar Animada Profissional",
+    "description": "Componente de navegação pronto para uso com dropdowns fluidos e suporte a acessibilidade.",
+    "price": 0,
+    "isFree": true,
+    "type": "component",
+    "features": [
+      "Tailwind CSS puro",
+      "Acessível (WAI-ARIA)",
+      "Dropdowns com micro-interações",
+      "Mobile-first (Menu Hambúrguer incluído)"
+    ],
+    "details": "Uma boa navegação é crucial para retenção de usuários. Este componente gratuito oferece uma base sólida para qualquer projeto React/Next.js. Basta copiar o código e colar no seu projeto."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "como-criar-um-micro-saas",
+    "title": "Como criar um Micro-SaaS em 2026",
+    "excerpt": "Descubra o passo a passo validado para construir e monetizar seu primeiro produto digital.",
+    "content": "Criar um Micro-SaaS hoje em dia é mais sobre distribuição do que sobre código. Comece encontrando um nicho específico, crie uma landing page de alta conversão para capturar leads e desenvolva um MVP enxuto. O Next.js com App Router e Server Actions tornou esse processo incrivelmente rápido...",
+    "date": "2026-10-30"
+  },
+  {
+    "slug": "server-components-explicados",
+    "title": "Dominando React Server Components",
+    "excerpt": "Entenda de uma vez por todas como renderizar na borda (edge) muda o jogo do SEO.",
+    "content": "Os Server Components permitem que você envie zero JavaScript para o cliente em partes estáticas da sua aplicação. Isso reduz o TTI (Time to Interactive) e melhora as pontuações do Lighthouse drasticamente...",
+    "date": "2026-10-15"
+  }
+]
